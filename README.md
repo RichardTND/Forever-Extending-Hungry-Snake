@@ -15,7 +15,7 @@ Please use GOOGLE to search for the following applications required for this pro
 * 64TASS cross assembler
 * Exomizer (any version)
 * A C64 emulator such as VICE for testing the game project (Make sure your settings have been set to allow joystick or joystick keys)
-* 
+
 **Optional:**
 * Charpad V2.0 or higher
 * Spritepad V2.0 or higher
