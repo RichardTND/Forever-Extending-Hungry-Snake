@@ -6,12 +6,20 @@ Forever Extending Hungry Snake was originally created and developed on theC64 fu
 
 https://tnd64.blogspot.com/2020/05/thec64-challenge-3-forever-extending.html
 
-## Applications Required
+## Applications Required 
 
+Please use GOOGLE to search for the following applications required for this project: 
+
+**Essential:**
 * A suitable IDE that can run batch files. Notepad ++ is a good example
 * 64TASS cross assembler
 * Exomizer (any version)
 * A C64 emulator such as VICE for testing the game project (Make sure your settings have been set to allow joystick or joystick keys)
+* 
+**Optional:**
+* Charpad V2.0 or higher
+* Spritepad V2.0 or higher
+* Dir Master by Style
 
 ## C64 Notes:
 
