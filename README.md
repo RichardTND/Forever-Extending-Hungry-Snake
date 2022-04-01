@@ -27,9 +27,10 @@ All graphics data and music are standard Commodore 64 format, and are not in raw
 
 ## Important ##
 
-The project and the source was created and developed by TND games. You are welcome to explore the source and use it for your own productions, but if you use the music or graphics, please credit **Richard/TND** for those. 
+The project and the source was created and developed by TND games. You are welcome to explore the source and use it for your own productions, but if you use the music or graphics, please credit **Richard/TND** for those. This project is also freeware.
 
 (C)2020 The New Dimension
+
 http://tnd64.unikat.sk
 
 
